@@ -1,4 +1,4 @@
 Euler
 =====
 
-Euler proeblems
+Euler problems
